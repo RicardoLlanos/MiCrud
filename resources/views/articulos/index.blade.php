@@ -13,7 +13,7 @@ Home - Crud
 
 @section("contenido")
 
-<h1>Leer registros</h1>
+<h1>Leer registros de Articulos</h1>
 
 <table class="table table-striped table-bordered table-hover table-condensed">
 	<thead>
